@@ -19,7 +19,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 How To Run
 1.Clone this Repository
-git clone https://github.com/vamanvs/netflix_datacleaning_analysis.git
+git clone https://github.com/Moramadhusudhan/Netflix_Data_Cleaning_Analysis
 cd netflix_datacleaning_analysis
 2.Start Jupyter Notebook
 jupyter notebook
